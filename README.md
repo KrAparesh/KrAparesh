@@ -20,11 +20,6 @@
 <h1> GitHub Info: </h1>
 <br>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <thead>
-        <tr>
-            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=krAparesh&theme=tokyo-night" alt="KrAparesh's contribution timeline" /></th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=kraparesh&show_icons=true&locale=en&theme=tokyonight" alt="KrAparesh's GitHub Stats" />               </td>
